@@ -1,0 +1,70 @@
+[
+    {
+        "consume": [{"name": "Iron Ore", "id": "ironOre", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Iron Ingot", "id": "ironIngot", "quantity": 1, "time": 1}]
+    },
+    {
+        "consume": [{"name": "Iron Ore", "id": "ironOre", "quantity": 1, "time": 1.5}],
+        "produce": [{"name": "Magnet", "id": "magnet", "quantity": 1, "time": 1.5}]
+    },
+    {
+        "consume": [{"name": "Copper Ore", "id": "copperOre", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Copper Ingot", "id": "copperIngot", "quantity": 1, "time": 1}]
+    },
+    {
+        "consume": [{"name": "Stone Ore", "id": "stoneOre", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Stone", "id": "stone", "quantity": 1, "time": 1}]
+    },
+    {
+        "consume": [{"name": "Coal Ore", "id": "coalOre", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Energetic Graphite",  "id": "energeticGraphite", "quantity": 1, "time": 2}]
+    },
+    {
+        "consume": [{"name": "Silicone Ore", "id": "siliconeOre", "quantity": 1, "time": 1}],
+        "produce": [{"name": "High-Purity Silicone Bar", "id": "siliconeBar", "quantity": 1, "time": 2}]
+    },
+    {
+        "consume": [{"name": "Silicone Ore", "id": "siliconeOre", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Glass", "id": "glass", "quantity": 1, "time": 2}]
+    },
+    {
+        "consume": [{"name": "Titanium Ore", "id": "titaniumOre", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Titanium Ingot", "id": "titaniumIngot", "quantity": 1, "time": 2}]
+    },
+    {
+        "consume": [{"name": "Kimberlite Ore", "id": "kimberliteOre", "quantity": 1, "time": 2}],
+        "produce": [{"name": "Diamond", "id": "diamond", "quantity": 1, "time": 2}]
+    },
+    {
+        "consume": [{"name": "Energetic Graphite", "id": "energeticGraphite", "quantity": 1, "time": 2}],
+        "produce": [{"name": "Diamond", "id": "diamond", "quantity": 1, "time": 2}]
+    },
+    {
+        "consume": [{"name": "Fractal Silicone", "id": "fractalSilicone", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Crystal Silicone", "id": "crystalSilicone", "quantity": 1, "time": 1}]
+    },
+    {
+        "consume": [{"name": "High-Purity Silicone Bar", "id": "siliconeBar", "quantity": 1, "time": 1}],
+        "produce": [{"name": "Crystal Silicone", "id": "crystalSilicone", "quantity": 1, "time": 1}]
+    },
+    {
+        "consume": [{"name": "Titanium Ingot", "id": "titaniumIngot", "quantity": 4, "time": 12},
+                    {"name": "Steel", "id": "steel", "quantity": 4, "time": 12},
+                    {"name": "Sulfuric Acid", "id": "sulfuricAcid", "quantity": 8, "time": 12}],
+        "produce": [{"name": "Titanium Alloy", "id": "titaniumAlloy", "quantity": 4, "time": 12}]
+    },
+    {
+        "consume": [{"name": "Energetic Graphite", "id": "energeticGraphite", "quantity": 3, "time": 3},
+                    {"name": "Sulfuric Acid", "id": "sulfuricAcid", "quantity": 1, "time": 3}],
+        "produce": [{"name": "Graphene", "id": "graphene", "quantity": 2, "time": 3}]
+    },
+    {
+        "consume": [{"name": "Fire Ice", "id": "fireIce", "quantity": 2, "time": 2}],
+        "produce": [{"name": "Graphene", "id": "graphene", "quantity": 2, "time": 2},
+                    {"name": "Hydrogen", "id": "hydrogen", "quantity": 1, "time": 2}]
+    },
+    {
+        "consume": [{"name": "Iron Ingot", "id": "ironIngot", "quantity": 3, "time": 3}],
+        "produce": [{"name": "Steel", "id": "steel", "quantity": 1, "time": 3}]
+    }
+]
